@@ -1,1 +1,5 @@
 ytjjdghgd  
+
+git config --global user.email "sroy48@lsu.edu
+git config --global user.name "Sarah Roy"
+
